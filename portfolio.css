@@ -7,8 +7,37 @@ span{
 }
 
 .designation{
-    font-size: 40px;
+    font-size: 30px;
 }
 .about{
     font-size:15px;
 }
+.education{
+    width: 100%;
+    height: 80px;
+}
+.education h5{
+    font-size: large;
+}
+/* .scrollpy{
+    width: 100%;
+} */
+@media(max-width:500px){
+    .education h5{
+        font-size: x-small;
+    }
+}
+/* .scrollpy img{
+    width: 200px;
+    height: 200px;
+}
+@media(max-width-240px){
+    .scrollpy img{
+        width: 100px;
+        height: 100px;
+    }
+}
+ */
+
+    
+    
